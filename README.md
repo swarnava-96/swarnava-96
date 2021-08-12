@@ -1,19 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Swarnava</h1>
 
-### I have technical experience and interest in -
+🔭### I have technical experience and interest in -
 * Machine Learning
 * Natural Language Processing 
 * Databases 
 * Business Intelligence
 
-### My Hobbies and interests -
+😄### My Hobbies and interests -
 * AI
 * Finance
 * Social Media
 * Sketching
 
-#### You can also find me on- 
+📫 ### You can also find me on-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Swarnava03)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/swarnava.mukherjee.92)
