@@ -7,6 +7,17 @@
 * Databases 
 * Business Intelligence
 
+### My Hobbies and interests -
+* AI
+* Finance
+* Social Media
+* Sketching
+
+#### You can also find me on- 
+[linkedin]: https://https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/
+[twitter]: https://www.twitter.com/c17hawke
+[Instagram]: https://www.instagram.com/c17hawke
+
 <!--
 **swarnava-96/swarnava-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
