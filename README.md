@@ -14,11 +14,7 @@
 * Sketching
 
 #### You can also find me on- 
-
-      
-        <a href="https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/Vasanthengineer4949"><i class="fab fa-github"></i></a>
-        <a href="https://twitter.com/V51430"><i class="fab fa-twitter"></i></a>
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/)
 
 <!--
 **swarnava-96/swarnava-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
