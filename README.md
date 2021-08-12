@@ -15,7 +15,7 @@
 
 #### You can also find me on- 
 
-      <div class="media-icons">
+      
         <a href="https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/"><i class="fab fa-linkedin"></i></a>
         <a href="https://github.com/Vasanthengineer4949"><i class="fab fa-github"></i></a>
         <a href="https://twitter.com/V51430"><i class="fab fa-twitter"></i></a>
