@@ -14,14 +14,12 @@
 * Sketching
 
 #### You can also find me on- 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Swarnava03)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/swarnava.mukherjee.92)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=#8a3ab9" />]
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_swarnavamukherjee_/?hl=en)
 
-<!-- Add font awesome icons -->
-<a href="https://www.facebook.com/swarnava.mukherjee.92" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
+
 <!--
 **swarnava-96/swarnava-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
