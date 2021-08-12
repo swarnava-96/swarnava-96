@@ -14,7 +14,7 @@
 * Sketching
 
 #### You can also find me on- 
-[<img align="left" alt="swarnava-mukherjee | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt=https://https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/ | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [linkedin](https://https://www.linkedin.com/in/swarnava-mukherjee-2787821b3/)
 [twitter]: https://www.twitter.com/c17hawke
 [Instagram]: https://www.instagram.com/c17hawke
