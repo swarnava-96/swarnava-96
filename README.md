@@ -2,7 +2,7 @@
 <h1 align="center">I'm Swarnava</h1>
 
 ### 🔭 I have technical experience and interest in -
-* Machine Learning
+* Machine Learning and Deep Learning
 * Natural Language Processing 
 * Databases 
 * Business Intelligence
